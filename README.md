@@ -1,2 +1,2 @@
-# map_marking
-In this project to mark a location on maps, type in a specific location 
+# mini_projects
+In this projects to learn and implement for my acadamic purpose 
